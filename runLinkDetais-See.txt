@@ -1,0 +1,7 @@
+http://localhost/travel/home.php
+
+
+
+***NOTE:  book_db   নাম দিয়ে database create  করে  সেখানে book_db file import  দিছি   তারপর  উপরের  link  browser  দিয়ে run করছি 
+
+Travel management website
